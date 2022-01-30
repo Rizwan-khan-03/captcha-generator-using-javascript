@@ -1,0 +1,37 @@
+.wrapper{
+    background-color: rgb(231, 133, 133);
+    padding: 20px;
+    text-align: center;
+}
+.divs{
+    padding: 5px;
+}
+#status{
+    color: #fff;
+}
+#generated_captcha{
+    padding: 4px;
+    border: 2px solid rgb(223, 123, 123);
+    border-radius: 6px;
+   
+}
+#enterd_captcha{
+    padding: 4px;
+    border: 2px solid rgb(223, 123, 123);
+    border-radius: 6px;
+   
+}
+.btn{
+    padding: 4px;
+    border: 3px solid rgb(173, 66, 66);
+    border-radius: 6px;
+    background-color: rgb(223, 123, 123);
+    cursor: pointer;
+}
+.btn:hover{
+    color: #fff;
+    border-color: rgb(187, 226, 142);
+    transition: 0.6s ease-in-out;
+
+
+}
